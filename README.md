@@ -1,4 +1,6 @@
 ### Hi there 👋
+Facts about me!
+- 👩‍ I'm currently a postgraduate student from HFUT, majoring in Computer Science and Technology.
 
 <!--
 **Chuckie-XC1028/Chuckie-XC1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Facts about me
+👩‍🎓 I'm a Ph.D. candidate from USTC, majoring in Computer Science and Data Science.
+👩‍💻 I strive to be a good programmer, a data scientist and an amateur game developer.
+🥸 My life motto is, "stay cool and have fun".
+🦆 My name looks like French and sounds like French, but it's actually Chinese.
+What's new
+🇩🇪 I've been learning German since 2020.
+🤔 I currently find my interest in Rust.
+📖 My recent reading list includes Harry Potter🧙‍♀️ and Sherlock Holmes🕵️ stories.
+
 -->

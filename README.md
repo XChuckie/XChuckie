@@ -1,9 +1,9 @@
 ### Hi there 👋
 Facts about me!
-- 👩‍ I'm currently a postgraduate student, majoring in Computer Science and Technology.
+- 👦 I'm currently a postgraduate student, majoring in Computer Science and Technology.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=XChuckie&show_icons=true&count_private=true&theme=gotham)
 <!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=XChuckie&show_icons=true&count_private=true&theme=gotham)
 **Chuckie-XC1028/Chuckie-XC1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
